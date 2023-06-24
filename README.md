@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hhonarkar
+- 👋 Hi, I’m Hamed Honarkar { @hhonarkar }
 - 👀 I’m interested in measuring sensors, data acquisition & monitoring of IIOT systems based on Embarcadero Delphi 
 - 🌱 I’m currently learning FMX & embedded systems for off-road machinery control based on CAN-BUS phisical layer
 - 💞️ I’m looking to collaborate on Delphi projects
